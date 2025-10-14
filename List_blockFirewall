@@ -8,6 +8,7 @@ instagram.com
 threads.net
 oculus.com
 workplace.com
+mqtt.c10r.facebook.com.
 
 twitter.com
 x.com
@@ -115,6 +116,7 @@ fbcdn.net
 fb.com  
 fbsbx.com  
 threads.net  
+edge-mqtt.facebook.com
 
 primevideo.com  
 amazonvideo.com  
@@ -129,3 +131,30 @@ amazonaws.com
 ssl-images-amazon.com  
 fls-na.amazon.com
 
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 mqtt.c10r.facebook.com
+0.0.0.0 mqtt.c10r-edge.facebook.com
+0.0.0.0 star.c10r.facebook.com
+0.0.0.0 b-api.facebook.com
+0.0.0.0 b-graph.facebook.com
+0.0.0.0 b-mqtt.facebook.com
+0.0.0.0 api.facebook.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 scontent.xx.fbcdn.net
+0.0.0.0 scontent.fbog2-1.fna.fbcdn.net
+0.0.0.0 video.xx.fbcdn.net
+0.0.0.0 static.xx.fbcdn.net
+0.0.0.0 connect.facebook.net
+0.0.0.0 apps.facebook.com
+0.0.0.0 upload.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 business.facebook.com
+0.0.0.0 developers.facebook.com
+0.0.0.0 l.facebook.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 fbcdn.net
+0.0.0.0 cdn.fbsbx.com
+0.0.0.0 edge-fcdn.net
+0.0.0.0 fbcdn.com
+0.0.0.0 facebookcorewwwi.onion
